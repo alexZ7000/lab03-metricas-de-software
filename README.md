@@ -1,6 +1,6 @@
 <h1 align="center">Lab 03 Métricas de Software</h1>
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="#">
